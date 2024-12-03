@@ -1,5 +1,11 @@
 # Membership Plugin Changelog
 
+## 5.0.0 - 2024-12-03
+
+### Added
+
+- Added Craft 5 and Craft Commerce 5 support
+
 ## 2.0.2 - 2023-05-01
 
 ### Changed
